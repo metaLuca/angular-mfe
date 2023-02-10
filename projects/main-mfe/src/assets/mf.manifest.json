@@ -1,0 +1,9 @@
+{
+  "iot": {
+    "remoteEntry": "http://localhost:4201/remoteEntry.js",
+    "exposedModule": "./IoT",
+    "displayName": "IoT",
+    "routePath": "iot",
+    "ngModuleName": "IoT"
+  }
+}
